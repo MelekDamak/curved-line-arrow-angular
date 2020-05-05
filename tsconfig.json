@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "curved-line-arrow": [
+        "dist/curved-line-arrow"
+      ],
+      "curved-line-arrow/*": [
+        "dist/curved-line-arrow/*"
+      ]
+    }
   }
 }
