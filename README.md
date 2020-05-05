@@ -5,7 +5,7 @@ Fancy curved arrows for your React project! Great for tutorials and product tour
 
 ## Installation
 
-`npm i tn-curved-line-arrow `
+`npm i tn-curved-line-arrow`
 
 ## Usage
 
