@@ -1,8 +1,38 @@
 {
   "name": "curved-line-arrow",
   "version": "0.0.1",
+  "description": "Curvy arrows for your Angular project!",
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
+  },
+  "author": "Melek Damak (melekdamak@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelekDamak/curved-line-arrow-angular.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "typeahead",
+    "canvas",
+    "line",
+    "curved",
+    "arrow",
+    "explain",
+    "steps",
+    "Line Expline",
+    "Angular comic arrows",
+    "Angular whiteboard style -arrows",
+    "Angular self drawn arrows",
+    "Angular cool arrows",
+    "Angular arrows explain steps",
+    "demo"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MelekDamak/curved-line-arrow-angular/issues"
   }
+ 
 }

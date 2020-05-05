@@ -1,21 +1,20 @@
 ![enter image description here](images/example.png)
-Fancy curved arrows for your React project! Great for tutorials and product tours!
+Fancy curved arrows for your Angular project! 
 
-https://react-curved-arrow.nickjanssen.com/
 
 
 
 ## Installation
 
-`yarn add react-curved-arrow`
+`npm i tn-curved-line-arrow `
 
 ## Usage
 
 ```jsx
-import CurvedArrow from "react-curved-arrow";
+import CurvedLineArrowModule
 
 // Usage
-<CurvedArrow />
+<tn-curved-line-arrow> </tn-curved-line-arrow>
 ```
 
 ## Props
@@ -36,15 +35,16 @@ import CurvedArrow from "react-curved-arrow";
 |dynamicUpdate|boolean|Automatically adjust the arrow whenever the from/to DOM elements update. Useful for dynamic content such as sliding menus or content that is within a scrolling container.|false|
 |zIndex|number|Adjust the z-index for this arrow.|0|
 
-## Try it out!
+## Copyright
 
-[Open in Playground](https://app.styledpage.com/app/-M-zcwJJQcEEOLLVgwE8)
 
-[Open in CodeSandbox](https://codesandbox.io/s/wild-wave-32jt9)
 
-Made with ❤️ by [Nick Janssen](https://twitter.com/nickjanssen_com)
+Made with ❤️ by [Melek Damak](https://www.facebook.com/Malik.Damak.MD/)
 
-Also check out [Styled Page](https://styledpage.com/?ref=eam&eam=react-curved), a tool that lets you visually build React apps & components!
+
+## Inspired from
+
+Also check out [Styled Page](https://react-curved-arrow.nickjanssen.com), a tool that lets you visually build React apps & components!
 
 # License
 MIT

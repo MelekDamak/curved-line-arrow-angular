@@ -12,4 +12,16 @@
     height: 50px;
     border: 5px dashed black;
   }
+  p{
+    display: inline;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-family: "Indie Flower";
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: Indie Flower;
+    src: url("../assets/fonts/IndieFlower-Regular.ttf");
+}
+
   
