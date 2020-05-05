@@ -1,6 +1,5 @@
-![enter image description here](images/example.png)
-Fancy curved arrows for your Angular project! 
-
+![enter image description here](https://github.com/MelekDamak/curved-line-arrow-angular/blob/master/images/example.PNG)
+Fancy curved arrows for your React project! Great for tutorials and product tours!
 
 
 
