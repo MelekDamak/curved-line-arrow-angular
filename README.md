@@ -1,27 +1,50 @@
-# CurvedLineArrowLibrary
+![enter image description here](images/example.png)
+Fancy curved arrows for your React project! Great for tutorials and product tours!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+https://react-curved-arrow.nickjanssen.com/
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+`yarn add react-curved-arrow`
 
-## Build
+## Usage
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```jsx
+import CurvedArrow from "react-curved-arrow";
 
-## Running unit tests
+// Usage
+<CurvedArrow />
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Props
+|Name|Type|Description|Default|
+|--- |--- |--- |--- |
+|fromSelector|DOM selector|DOM element from which your arrow will start.|body|
+|fromOffsetX|number|Amount of pixels to offset the arrow from the DOM element on the X axis.|0|
+|fromOffsetY|number|Amount of pixels to offset the arrow from the DOM element on the Y axis.|0|
+|toSelector|DOM selector|DOM element to which your arrow will go to.|(same as fromSelector)|
+|toOffsetX|number|Amount of pixels to offset the arrow from the DOM element on the X axis.|0|
+|toOffsetY|number|Amount of pixels to offset the arrow from the DOM element on the Y axis.|0|
+|middleX|number|Middle point X position.|0|
+|middleY|number|Middle point Y position.|0|
+|width|number|Width of the arrow and arrowhead.|8|
+|color|color|Color of the arrow and arrowhead.|"black"|
+|hideIfFoundSelector|DOM selector|Optional. if the arrow can find this selector, it will hide itself. Useful for product tours when you only want to show an arrow whenever a user hasn't performed an action yet such as opening a menu.||
+|debugLine|boolean|Show debug dots and lines for fromOffset, toOffset and middle vectors.|false|
+|dynamicUpdate|boolean|Automatically adjust the arrow whenever the from/to DOM elements update. Useful for dynamic content such as sliding menus or content that is within a scrolling container.|false|
+|zIndex|number|Adjust the z-index for this arrow.|0|
 
-## Running end-to-end tests
+## Try it out!
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+[Open in Playground](https://app.styledpage.com/app/-M-zcwJJQcEEOLLVgwE8)
 
-## Further help
+[Open in CodeSandbox](https://codesandbox.io/s/wild-wave-32jt9)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Made with ❤️ by [Nick Janssen](https://twitter.com/nickjanssen_com)
+
+Also check out [Styled Page](https://styledpage.com/?ref=eam&eam=react-curved), a tool that lets you visually build React apps & components!
+
+# License
+MIT
