@@ -38,9 +38,8 @@ import CurvedLineArrowModule
 
 
 
-Made with ❤️ by [Melek Damak](https://www.facebook.com/Malik.Damak.MD/)
-
-
+Made with ❤️ by [Melek Damak](https://www.linkedin.com/in/damak-melek-2a9819147/)
+Mail : melekdamak@gmail.com
 ## Inspired from
 
  [Styled Page](https://react-curved-arrow.nickjanssen.com), a tool that lets you visually build React apps & components!
