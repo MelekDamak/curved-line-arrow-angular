@@ -1,4 +1,4 @@
-![enter image description here](images/example.png)
+![enter image description here](https://github.com/MelekDamak/curved-line-arrow-angular/blob/master/images/example.PNG)
 Fancy curved arrows for your React project! Great for tutorials and product tours!
 
 https://react-curved-arrow.nickjanssen.com/
