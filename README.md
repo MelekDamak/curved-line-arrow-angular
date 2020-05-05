@@ -5,7 +5,7 @@ Fancy curved arrows for your Angular project! Great for tutorials and product to
 
 ## Installation
 
-`npm i tn-curved-line-arrow`
+`npm i cool-line-arrow`
 
 ## Usage
 
