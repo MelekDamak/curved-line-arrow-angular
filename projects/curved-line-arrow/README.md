@@ -1,5 +1,5 @@
 ![enter image description here](https://github.com/MelekDamak/curved-line-arrow-angular/blob/master/images/example.PNG)
-Fancy curved arrows for your React project! Great for tutorials and product tours!
+Fancy curved arrows for your Angular project! Great for tutorials and product tours!
 
 
 
@@ -43,7 +43,7 @@ Made with ❤️ by [Melek Damak](https://www.facebook.com/Malik.Damak.MD/)
 
 ## Inspired from
 
-Also check out [Styled Page](https://react-curved-arrow.nickjanssen.com), a tool that lets you visually build React apps & components!
+ [Styled Page](https://react-curved-arrow.nickjanssen.com), a tool that lets you visually build React apps & components!
 
 # License
 MIT
