@@ -12,7 +12,7 @@ Sandbox : https://codesandbox.io/s/vc6p1
 ## Usage
 
 ```jsx
-import CurvedLineArrowModule
+import {CurvedLineArrowModule} from 'cool-line-arrow';
 
 // Selector 
 
