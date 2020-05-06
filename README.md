@@ -6,6 +6,13 @@ Demo : https://vc6p1.csb.app/
 Sandbox : https://codesandbox.io/s/vc6p1
 
 
+<<<<<<< HEAD
+=======
+## Installation
+
+`npm i cool-line-arrow`
+
+>>>>>>> 3e9560b9591449ed1341c550b54e6798ee48b585
 ## Usage
 
 ```jsx
