@@ -19,8 +19,8 @@ import {CurvedLineArrowModule} from 'cool-line-arrow';
 <tn-curved-line-arrow> </tn-curved-line-arrow>
 
 ```
-```jsx
-Example : 
+## Example
+```jsx 
   <tn-curved-line-arrow
     [fromSelector]="'.A'"
     [toSelector]="'.B'"
