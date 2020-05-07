@@ -17,8 +17,22 @@ import {CurvedLineArrowModule} from 'cool-line-arrow';
 // Selector 
 
 <tn-curved-line-arrow> </tn-curved-line-arrow>
-```
 
+```
+```jsx
+Example : 
+  <tn-curved-line-arrow
+    [fromSelector]="'.A'"
+    [toSelector]="'.B'"
+    [fromOffsetY]="-55"
+    [toOffsetY]="-45"
+    [middleY]="-15"
+    [middleX]="0"
+    [width]="6"
+    [color]="'gray'">
+  </tn-curved-line-arrow>
+  
+```
 ## Inputs
 |Name|Type|Description|Default|
 |--- |--- |--- |--- |
